@@ -1,0 +1,24 @@
+{
+    "name": "@qsz3330/qsz-node-9bidn",
+    "version": "1.0.0",
+    "description": "Convert to the text you want.",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/qsz3330/qsz-node-9bidn.git"
+    },
+    "keywords": [
+        "string",
+        "convert"
+    ],
+    "author": "qsz3330",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/qsz3330/qsz-node-9bidn/issues"
+    },
+    "homepage": "https://github.com/qsz3330/qsz-node-9bidn#readme",
+    "dependencies": {
+        "@vcvckw/convstr": "^1.0.11",
+        "@qsz3330/qsz-node-9bidn": "^1.0.0"
+    }
+}
